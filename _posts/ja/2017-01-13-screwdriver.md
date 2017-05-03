@@ -25,4 +25,4 @@ Screwdriverプロジェクトの詳細については、[公式ウェブサイ�
 
 > [英語と日本語のバイリンガルドキュメント](http://docs.screwdriver.cd)を覚えておいてください。[ とあなたの（オープンソースの）プロジェクトにLock](https://locki.io)を統合する。
 
-Test paragraph here
+テストパラグラフはここ
