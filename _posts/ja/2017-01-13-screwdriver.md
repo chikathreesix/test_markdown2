@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YahooのScrewdriver.cdがリリースされました！ Lockiのバイリンガルドキュメントで利用可能ですよ
+title: YahooのScrewdriver.cdがリリースされました！ Lockiのバイリンガルドキュメントで利用可能ですよね
 ---
 
 Yahooのオープンソースプロジェクト[スクリュードライバ](http://screwdriver.cd/)、継続配信システムダイナミックインフラストラクチャが先ほど[ドキュメントが英語で日本語で読めるようになっていますね](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous)。
@@ -24,3 +24,5 @@ Yahooのオープンソースプロジェクト[スクリュードライバ](htt
 Screwdriverプロジェクトの詳細については、[公式ウェブサイト](http://screwdriver.cd)をご覧ください。 [最新のブログ投稿](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous)、または[ SD Timesのニュース](http://sdtimes.com/yahoo-open-sources-continuous-delivery-tool-screwdriver/)をご覧ください。
 
 > [英語と日本語のバイリンガルドキュメント](http://docs.screwdriver.cd)を覚えておいてください。[ とあなたの（オープンソースの）プロジェクトにLock](https://locki.io)を統合する。
+
+Test paragraph here
