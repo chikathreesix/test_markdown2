@@ -3,7 +3,7 @@ layout: post
 title: YahooのScrewdriver.cdがリリースされました！ Lockiのバイリンガルドキュメントで利用可能ですよね
 ---
 
-Yahooのオープンソースプロジェクト[スクリュードライバ](http://screwdriver.cd/)、継続配信システムダイナミックインフラストラクチャが先ほど[ドキュメントが英語で日本語で読めるようになっていますね](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous)。
+Yahooのオープンソースプロジェクト[スクリュードライバ](http://screwdriver.cd/)、継続配信システムダイナミックインフラストラクチャが先ほど[ドキュメントが英語で日本語で読めるようになっていますねぇ](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous)。
 
 開発者は、ソフトウェアの変更をリリースする際の固有の摩擦を軽減しながら、ユーザーのニーズに素早く適応し、継続的な納品を受けることができます。ヤフーは、コミットからプロダクションまでの開発サイクル全体を通して製品品質とエンジニアリングの俊敏性を向上させ、製品の提供能力を大幅に向上させましたよっと。
 
