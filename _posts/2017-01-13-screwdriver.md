@@ -5,7 +5,7 @@ title: Yahoo's Screwdriver.cd released! Now available with bilingual documentati
 
 If you are new to Screwdriver, we suggest you start by reading through the Domain model and YAML configuration to get an idea of different concepts in Screwdriver and how they tie together. To see some working examples, you can try out our quickstart examples with different languages to choose from.
 
-Adding a new sentece here.
+Adding a new sentece here and there.
 
 Yahoo's open-source project [Screwdriver](http://screwdriver.cd/), a Continuous Delivery Build System for Dynamic Infrastructure, was just [released](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous) with all product [docs available in English and Japanese](http://docs.screwdriver.cd).
 
