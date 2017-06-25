@@ -1,11 +1,15 @@
 ---
 layout: post
-title: YahooのScrewdriver.cdがリリースされました！ Lockiのバイリンガルドキュメントで利用可能ですよね
+title: post
 ---
+
+If you are new to Screwdriver, we suggest you start by reading through the Domain model and YAML configuration to get an idea of different concepts in Screwdriver and how they tie together. To see some working examples, you can try out our quickstart examples with different languages to choose from.
+
+Adding a new sentece here and there.
 
 Yahooのオープンソースプロジェクト[スクリュードライバ](http://screwdriver.cd/)、継続配信システムダイナミックインフラストラクチャが先ほど[ドキュメントが英語で日本語で読めるようになっていますねぇ](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous)。
 
-開発者は、ソフトウェアの変更をリリースする際の固有の摩擦を軽減しながら、ユーザーのニーズに素早く適応し、継続的な納品を受けることができます。ヤフーは、コミットからプロダクションまでの開発サイクル全体を通して製品品質とエンジニアリングの俊敏性を向上させ、製品の提供能力を大幅に向上させましたよっとと。
+開発者は、ソフトウェアの変更をリリースする際の固有の摩擦を軽減しながら、ユーザーのニーズに素早く適応し、継続的な納品を受けることができます。ヤフーは、コミットからプロダクションまでの開発サイクル全体を通して製品品質とエンジニアリングの俊敏性を向上させ、製品の提供能力を大幅に向上させましたよっととこ。
 
 このコミュニティ主導のツールは、配備パイプラインを簡素化し、トランク開発を最適化し、ロールバックを容易にします。スクリュードライバは、1日あたり25,000以上のビルドを処理し、1日に12,000以上のgitコミットを、Yahooの単一の共有エントリポイントとして処理します。複数の言語をサポートし、仮想マシンとコンテナベースのビルドと展開の両方を処理しまっすね。
 
@@ -23,6 +27,6 @@ Yahooのオープンソースプロジェクト[スクリュードライバ](htt
 
 Screwdriverプロジェクトの詳細については、[公式ウェブサイト](http://screwdriver.cd)をご覧ください。 [最新のブログ投稿](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous)、または[ SD Timesのニュース](http://sdtimes.com/yahoo-open-sources-continuous-delivery-tool-screwdriver/)をご覧ください。
 
-> [英語と日本語のバイリンガルドキュメント](http://docs.screwdriver.cd)を覚えておいてください。[ とあなたの（オープンソースの）プロジェクトにLock](https://locki.io)を統合する。
+> [英語と日本語のバイリンガルドキュメント](http://docs.screwdriver.cd)を是非ご覧いただき、[ あなたの（オープンソースの）プロジェクトに](https://locki.io)Lockiを是非ご利用ください。
 
 テストパラグラフはここです。
