@@ -3,9 +3,9 @@ layout: post
 title: post
 ---
 
-If you are new to Screwdriver, we suggest you start by reading through the Domain model and YAML configuration to get an idea of different concepts in Screwdriver and how they tie together. To see some working examples, you can try out our quickstart examples with different languages to choose from.
+And if you are new to Screwdriver, we suggest you start by reading through the Domain model and YAML configuration to get an idea of different concepts in Screwdriver and how they tie together. To see some working examples, you can try out our quickstart examples with different languages to choose from.
 
-Adding a new sentece here and there.
+Adding a new sentece here.
 
 Yahooのオープンソースプロジェクト[スクリュードライバ](http://screwdriver.cd/)、継続配信システムダイナミックインフラストラクチャが先ほど[ドキュメントが英語で日本語で読めるようになっていますねぇ](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous)。
 
