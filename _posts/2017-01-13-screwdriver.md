@@ -31,4 +31,4 @@ More information about the Screwdriver project can be found on the [official web
 
 Test paragraph here
 
-You could present in the order provided. Or you may find a different order works for you and your audience. After presenting a couple of times to individual business units within your organization, you will work out how best to approach it. The idea here is to give you a set of templates so that you are not having to start from a blank canvas. And by blank canvas we mean empty powerpoint.
+You could present in the order provided. Or you may find a different order works for you and your audience. After presenting a couple of times to individual business units within your organization, you will work out how best to approach it. The idea here is to give you a set of templates so that you are not having to start from a blank canvas.
