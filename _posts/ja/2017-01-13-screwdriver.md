@@ -5,7 +5,7 @@ title: post
 
 そして、あなたがScrewdriverに慣れていない場合は、まずドメインモデルとYAMLの設定を読んで、Screwdriverのさまざまな概念とその結びつきを知ることをお勧めします。いくつかの実例を見るには、さまざまな言語のクイックスタートサンプルを試してみてください。
 
-新しいsenteceをここに追加する。
+新しい文章をここに追加する。
 
 Yahooのオープンソースプロジェクト[スクリュードライバ](http://screwdriver.cd/)、継続配信システムダイナミックインフラストラクチャが先ほど[ドキュメントが英語で日本語で読めるようになっていますねぇ](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous)。
 
