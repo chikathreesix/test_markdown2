@@ -36,3 +36,5 @@ You could present in the order provided. Or you may find a different order works
 In the first of four lectures on How to Build a Product, Michael Seibel, CEO of Y Combinator, interviews Steve Huffman and Emmett Shear on how they built their products as founder-CEO's of Reddit and Twitch, respectively.
 
 Yuri Sagalov, CEO of Amium, and Sam Altman hold Live Office Hours with three startups: MoonlightWork, Canny and Tuml. They'll discuss their ideas and their thought processes around building their companies.
+
+In today's lecture, we're joined by Stewart Butterfield, founder and CEO of Slack, and Adam D'Angelo, founder and CEO of Quora. Sam and Stewart will explore the process of getting an idea, followed by Adam on tracking metrics for your company.
