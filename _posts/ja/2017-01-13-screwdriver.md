@@ -36,3 +36,5 @@ Screwdriverプロジェクトの詳細については、[公式ウェブサイ�
 Y CombinatorのCEOであるMichael Seibel氏は、製品の作り方に関する4回の講義の最初に、スティーブ・ハフマンとEmmett ShearにRedditとTwitchの創業者CEOとして製品をどのように組み込んだかをインタビューします。
 
 AmiumのCEO、Yuri SagalovとSam AltmanはMoonlightWork、Canny、Tumlの3つの新興企業と共にLive Office Hoursを開催しています。彼らは自分たちのアイデアと彼らの思考プロセスについて、彼らの会社を建てることについて議論するでしょう
+
+今日の講義では、Slackの創設者兼CEO Stewart ButterfieldとQuoraの創設者兼CEO Adam D'Angeloが加わりました。 SamとStewartはアイデアを得るプロセスを探究し、Adamはあなたの会社の指標を追跡します。
