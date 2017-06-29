@@ -32,3 +32,5 @@ More information about the Screwdriver project can be found on the [official web
 Test paragraph here
 
 You could present in the order provided. Or you may find a different order works for you and your audience. After presenting a couple of times to individual business units within your organization, you will work out how best to approach it. The idea here is to give you a set of templates so that you are not having to start from a blank canvas.
+
+In the first of four lectures on How to Build a Product, Michael Seibel, CEO of Y Combinator, interviews Steve Huffman and Emmett Shear on how they built their products as founder-CEO's of Reddit and Twitch, respectively.
