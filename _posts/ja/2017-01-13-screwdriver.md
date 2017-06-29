@@ -37,4 +37,5 @@ Y CombinatorのCEOであるMichael Seibel氏は、製品の作り方に関する
 
 AmiumのCEO、Yuri SagalovとSam AltmanはMoonlightWork、Canny、Tumlの3つの新興企業と共にLive Office Hoursを開催しています。彼らは自分たちのアイデアと彼らの思考プロセスについて、彼らの会社を建てることについて議論するでしょう
 
+GitLocalizeは、GitHubリポジトリのための継続的なローカリゼーションプラットフォームであり、開発者向けのプロセスを自動化します。インターネット関連製品の変化する性質のため、ローカライズを維持することは本当に難しい作業でした。 GitLocalizeはGitHubリポジトリに接続し、数回のクリックで開発ワークフローと自然に統合することでこれを解決します。 
 今日の講義では、Slackの創設者兼CEO Stewart ButterfieldとQuoraの創設者兼CEO Adam D'Angeloが加わりました。 SamとStewartはアイデアを得るプロセスを探究し、Adamはあなたの会社の指標を追跡します。
