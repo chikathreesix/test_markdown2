@@ -42,3 +42,5 @@ In today's lecture, we're joined by Stewart Butterfield, founder and CEO of Slac
 GitLocalize is a continuous localization platform for GitHub repositories and automates the process for developers. Because of the ever-changing nature of Internet-related product, keeping localizing them has been really challenging. GitLocalize solves this by connecting to your GitHub repository and naturally integrating with your development workflow in just a few clicks.
 
 We started supporting from Markdown files. Try GitLocalize in a minute if you have a documentation project that you want to localize.
+
+Once you integrate your repo with GitLocalize, it starts pulling all the localization related files into its platform and watching the changes.
