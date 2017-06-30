@@ -44,5 +44,3 @@ GitLocalize is a continuous localization platform for GitHub repositories and au
 We started supporting from Markdown files. Try GitLocalize in a minute if you have a documentation project that you want to localize.
 
 Once you integrate your repo with GitLocalize, it starts pulling all the localization related files into its platform and watching the changes.
-
-With GitLocalize, your team no longer need to do anything extra to localize your project and developers only need to look at those pull request coming.
