@@ -48,3 +48,7 @@ Once you integrate your repo with GitLocalize, it starts pulling all the localiz
 With GitLocalize, your team no longer need to do anything extra to localize your project and developers only need to look at those pull request coming.
 
 Since it automatically links a translation with its original sentence, it can show you which part needs to be translated when the original one is updated.
+
+## More details
+
+Check out the video below to see how it works in more depth!
