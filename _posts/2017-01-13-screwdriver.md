@@ -52,3 +52,5 @@ Since it automatically links a translation with its original sentence, it can sh
 ## More details
 
 Check out the video below to see how it works in more depth!
+
+<a href="https://google.com"><button>Test</button></a>
